@@ -14,16 +14,16 @@ To Install:
 
 To Use Follow All:
 
-Open Depop.com
-Make sure you are on a following/followers tab (someone else's profile).
-Hit toggle button to turn on and off.
+Open Depop.com -
+Make sure you are on a following/followers tab (someone else's profile). -
+Hit toggle button to turn on and off. -
 
 
 To Use Unfollow All:
 
-Open Depop.com
-Make sure you are on YOUR following tab (your own profile). 
-Hit toggle button to turn on and off.
+Open Depop.com -
+Make sure you are on YOUR following tab (your own profile). -
+Hit toggle button to turn on and off. -
 
 
-**Delays are set specifically to rate limits as of 2/23/2025.**
+**Delays are set specifically to rate limits as of 2/23/2025.** 
