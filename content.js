@@ -46,7 +46,7 @@ if (!window.depopFollowManager) {
               foundButtons = true;
               button.click();
               console.log('Followed User');
-              await this.sleep(6000); // 6 second delay between follows
+              await this.sleep(7750); // 7.75 second delay between follows
             }
           }
           
@@ -77,7 +77,7 @@ if (!window.depopFollowManager) {
               foundButtons = true;
               button.click();
               console.log('Unfollowed User');
-              await this.sleep(6500); // 6.5 second delay between unfollows
+              await this.sleep(7000); // 7 second delay between unfollows
             }
           }
           
