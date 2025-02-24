@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Autopop - Depop Follow Manager",
+  "version": "1.0",
+  "description": "Manage Depop follows and unfollows with automation",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "tabs"
+  ],
+  "host_permissions": [
+    "*://*.depop.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.depop.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "icons": {
+    "128": "icon.png"
+  }
+} 
