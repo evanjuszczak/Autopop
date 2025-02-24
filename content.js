@@ -46,7 +46,7 @@ if (!window.depopFollowManager) {
               foundButtons = true;
               button.click();
               console.log('Followed User');
-              await this.sleep(5500); // 5.5 second delay between follows
+              await this.sleep(6000); // 6 second delay between follows
             }
           }
           
